@@ -9,9 +9,8 @@ It is a Weather App which will show you the right climate in your city. It has a
 I have used HTML, CSS, Javascript
 
 Let us share my experience,<br>
-This entire journey of making the project was awesome. I have learned lots of things by applying to the real website and it gave us a lot of confidence. there were some more functionalities that could have been done, the time didn’t permit me to go further. But I will surely improve it during the course of time in future .
+This entire journey of making the project was awesome. I have learned lots of things by applying to the real website and it gave us a lot of confidence. there were some more functionalities that could have been done But I will surely improve it during the course of time in future .
 
-## So journey started from here!
 
 ### Snapshots of our project :- 
 
